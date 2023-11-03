@@ -61,13 +61,15 @@ Pada saat admin membuka website Es Teh Solo akan muncul tampilan login, dimana u
 
 
 **Register**
+
 Pada tampilan register, admin akan diminta untuk memasukan nama, email, password, dan konfirmasai password untuk pembuatan akun.
 
 ![127 0 0 1_8000_register(Nest Hub Max) (2)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/75fcb17f-e805-471d-a407-2f56651b9c1c)
 
-Setelah melakukan daftar akun, admin dapat melakukan login menggunakan akun yang telah didaftarkan dengan memasukan email dan password.
+Setelah melakukan daftar akun, admin dapat melakukan login menggunakan akun yang telah didaftarkan.
 
 **Login**
+Pada tampilan login, admin diminta untuk memasukan email dan password yang telah terdaftar.
 ![127 0 0 1_8000_admin(Nest Hub Max) (2)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/c8724fe8-a043-48a7-a627-683831f67352)
 
 
@@ -76,7 +78,6 @@ Apabila admin berhasil login sesuai dengan akun yang telah didaftarkan maka akan
 **1. Beranda**
 
 - Pada tampilan awal (beranda) terdapat tampilan selamat datang dengan tampilan gambar yang berkaitan dengan Es Teh Solo, dan jelajahi menu. Apabila bagian jelajahi menu diklik maka akan mengakses halaman menu Es Teh Solo.
-
 
 ![127 0 0 1_8000_admin_home(Nest Hub Max)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/81d6c13c-26e5-482b-a557-cfacac9cd81a)
 
@@ -98,6 +99,7 @@ Apabila admin berhasil login sesuai dengan akun yang telah didaftarkan maka akan
 **4. Bahan Baku**
 
 - Pada tampilan bahan baku terdapat daftar bahan baku yang berisikan dengan tabel id, nama, jumlah, satuan, harga dan tanggal pembelian.
+
 ![127 0 0 1_8000_bahan_baku(Nest Hub) (4)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/05531564-36c1-4646-abd2-338447026732)
 
 
@@ -108,8 +110,6 @@ Apabila admin berhasil login sesuai dengan akun yang telah didaftarkan maka akan
 - Apabila admin selesai menambahkan (menginputkan) bahan baku, kemudian mengklik button simpan akan muncul tampilan bahan baku yang telah diinputkan pada bagian daftar bahan baku.
   
 ![127 0 0 1_8000_bahan_baku(Nest Hub) (1)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/268af2f8-651b-47b0-ac1f-364e6585ad25)
-
-
 
 **5. Logout**
 Untuk keluar dari sistem, admin dapat melakukan logout. Setelah logout maka akan muncul tampilan login.
