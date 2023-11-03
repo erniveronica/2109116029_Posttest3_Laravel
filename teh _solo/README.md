@@ -66,10 +66,13 @@ Pada tampilan register, admin akan diminta untuk memasukan nama, email, password
 
 ![127 0 0 1_8000_register(Nest Hub Max) (2)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/75fcb17f-e805-471d-a407-2f56651b9c1c)
 
+
 Setelah melakukan daftar akun, admin dapat melakukan login menggunakan akun yang telah didaftarkan.
 
 **Login**
+
 Pada tampilan login, admin diminta untuk memasukan email dan password yang telah terdaftar.
+
 ![127 0 0 1_8000_admin(Nest Hub Max) (2)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/c8724fe8-a043-48a7-a627-683831f67352)
 
 
