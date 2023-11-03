@@ -57,18 +57,18 @@ Untuk mengakses bagian admin dapat menggunakan /admin
 
 Pada saat admin membuka website Es Teh Solo akan muncul tampilan login, dimana untuk dapat mengakses halaman admin harus login terlebih dahulu. Saat ingin login admin harus memiliki akun terlebih dahulu, apabila admin belum memiliki akun, admin dapat mendaftar akun terlebih dahulu dengan klik bagian register.
 
-![127 0 0 1_8000_admin(Nest Hub Max) (1)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/200c5823-4ce9-43fd-9a66-4d80974da3b4)
+![127 0 0 1_8000_admin(Nest Hub Max) (1)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/3a2ce109-b068-4181-90ef-f3f336c7266a)
 
 
 **Register**
 Pada tampilan register, admin akan diminta untuk memasukan nama, email, password, dan konfirmasai password untuk pembuatan akun.
 
-![127 0 0 1_8000_register(Nest Hub Max) (2)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/c9389ff9-1c2d-471f-ab64-8971de78d4da)
+![127 0 0 1_8000_register(Nest Hub Max) (2)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/75fcb17f-e805-471d-a407-2f56651b9c1c)
 
 Setelah melakukan daftar akun, admin dapat melakukan login menggunakan akun yang telah didaftarkan dengan memasukan email dan password.
 
 **Login**
-![127 0 0 1_8000_admin(Nest Hub Max) (2)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/bec7dc98-dfc2-4d0a-99cb-6940614373be)
+![127 0 0 1_8000_admin(Nest Hub Max) (2)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/c8724fe8-a043-48a7-a627-683831f67352)
 
 
 Apabila admin berhasil login sesuai dengan akun yang telah didaftarkan maka akan muncul tampilan website Es Teh Solo bagian admin, yang berisikan tampilan awal yaitu selamat datang (beranda) yang dilengkapi dengan 5 menu pilihan yaitu:
@@ -78,44 +78,46 @@ Apabila admin berhasil login sesuai dengan akun yang telah didaftarkan maka akan
 - Pada tampilan awal (beranda) terdapat tampilan selamat datang dengan tampilan gambar yang berkaitan dengan Es Teh Solo, dan jelajahi menu. Apabila bagian jelajahi menu diklik maka akan mengakses halaman menu Es Teh Solo.
 
 
-![Alt text](image.png)
+![127 0 0 1_8000_admin_home(Nest Hub Max)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/81d6c13c-26e5-482b-a557-cfacac9cd81a)
 
 **2. Tentang**
 
 - Pada tampilan tentang terdapat gambar logo, sejarah singkat, dan visi dari Es Teh Solo.
 
-![Alt text](image-1.png)
+![127 0 0 1_8000_admin_tentang(Nest Hub)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/c59dca74-b4d9-486c-9359-2fc3773a47da)
 
 
 **3. Menu**
 
 - Pada tampilan menu terdapat menu yang tersedia pada Es Teh Solo yang dilengkapi dengan gambar dan deskripsi pada setiap menu yang ada.
 
-![Alt text](image-2.png)
+![127 0 0 1_8000_admin_menu(Nest Hub)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/7ed3b8ba-c63c-4201-b513-3240eabcd281)
 
 
 
 **4. Bahan Baku**
 
 - Pada tampilan bahan baku terdapat daftar bahan baku yang berisikan dengan tabel id, nama, jumlah, satuan, harga dan tanggal pembelian.
-![Alt text](image-3.png)
+![127 0 0 1_8000_bahan_baku(Nest Hub) (4)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/05531564-36c1-4646-abd2-338447026732)
+
 
 - Selain itu, terdapat button tambahkan bahan baku dimana admin dapat memenambahkan (menginputkan) bahan baku yang telah dibeli untuk mengetahui bahan baku apa saja yang telah dibeli.
 
-![Alt text](image-4.png)
+![127 0 0 1_8000_bahan_baku_create(Nest Hub) (1)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/7b1b5b67-5cbf-4b3a-a9e6-76e90e0f41be)
 
 - Apabila admin selesai menambahkan (menginputkan) bahan baku, kemudian mengklik button simpan akan muncul tampilan bahan baku yang telah diinputkan pada bagian daftar bahan baku.
   
-![Alt text](image-5.png)
+![127 0 0 1_8000_bahan_baku(Nest Hub) (1)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/268af2f8-651b-47b0-ac1f-364e6585ad25)
+
 
 
 **5. Logout**
 Untuk keluar dari sistem, admin dapat melakukan logout. Setelah logout maka akan muncul tampilan login.
 
-![Alt text](image-6.png)
+![127 0 0 1_8000_admin_home(Nest Hub)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/04a0137b-4b18-480d-a024-c48e165c2635)
 
-![Alt text](image-7.png)
-   
+![127 0 0 1_8000_admin(Nest Hub Max) (1)](https://github.com/erniveronica/2109116029_Posttest3_Laravel/assets/119858991/8326523b-8667-4e00-b26c-30c42802af25)
+
 
 <hr>
   
